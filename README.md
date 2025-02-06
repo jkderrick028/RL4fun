@@ -1,2 +1,3 @@
-# rLisFun
-reinforcement learning course materials
+# RL4fun
+learning reinforcement learning
+
